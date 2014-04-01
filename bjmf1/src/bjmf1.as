@@ -13,6 +13,7 @@ package
 		private var mc:Jugador;
 		public function bjmf1()
 		{
+			//-----------------
 			
 			/*var mc:mc_jugador = new mc_jugador();
 			this.addChild(mc);
